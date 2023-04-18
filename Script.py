@@ -12,7 +12,7 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/MsFilmFactory_Bot')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", '')
     START_TXT = environ.get("START_TXT", '''Hello {},
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million files to serve you \n\nKeep Support Me''')
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -21,12 +21,12 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million 
 ╔════❰ MS FILM FACTORY ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/mrmalik_offl>Mr Malik</a> ✨
+║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/Aashu_Botz>Aashu</a> ✨
 ║ ┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ MS FILM FACTORY ]
+║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ Ms FILM FACTORY ]
 ║ ┗━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     SOURCE_TXT = """<b>Ms Film Factory is an open source project</b>
