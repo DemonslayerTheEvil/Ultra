@@ -1,5 +1,5 @@
 <h3 align="center">
-  <b> 𝐌𝐬-𝐀𝐮𝐭𝐨𝐅𝐢𝐥𝐭𝐞𝐫-𝐔𝐥𝐭𝐫𝐚 - ＭＳ－ＴＡＭＩＬ－ＢＯＴＺ ❤️</b>
+  <b> 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁-𝚄𝙻𝚃𝚁𝙰-𝙰𝚊𝚜𝚑𝚞-𝙱𝚘𝚝𝚣 ❤️</b>
 </h3>
 
 
@@ -97,7 +97,7 @@ You can deploy this bot anywhere.
 <details><summary>𝘿𝙚𝙥𝙡𝙤𝙮 𝙏𝙤 𝙑𝙋𝙎</summary>
 <p>
 <pre>
-git clone https://github.com/mrmalikoffl/MsFilmFactoryV2
+git clone https://github.com/DemonslayerTheEvil/Ultra
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
