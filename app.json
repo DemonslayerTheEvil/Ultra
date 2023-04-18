@@ -2,7 +2,7 @@
     "name": "MsFilmFactoryV2",
     "description": "Ms Film Factory with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/8c5b584dd3f9b2ed31d87.jpg",
+    "logo": "",
     "keywords": [
       "telegram",
       "auto-filter",
