@@ -137,26 +137,26 @@ python3 bot.py
 ```
 🌟 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
+[![telegram ]()]()
+[![telegram ]()]()
 
 🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
 
-[![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
+[![Aashu-Devs]()]()
 
 
 🌟 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨
  
- - ❤️ Thank you [MrMalik](https://github.com/mrmalikoffl) for helping us in this journey ❤️.
- - ❤️ From the side of [MrMalik](https://github.com/mrmalikoffl) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
+ - ❤️ Thank you [MrAashu]() for helping us in this journey ❤️.
+ - ❤️ From the side of [MrAahu]() Thank you [Team-EvaMaria]() for their awesome repository.
  - ❤️ Thanks To All In This Journey.
 
 🌟 𝐍𝐨𝐭𝐞
 
-[Join Developer Channel](https://t.me/+rN9QCFgIihgyZWM1): MS Bots
+[Join Developer Channel](): Bots
 
 🌟 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
 
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/mrmalikoffl/MsFilmFactoryV2/blob/main/LICENSE)
+[![GNU Affero General Public License 2.0]()]()    
+Licensed under [GNU AGPL 2.0.]()
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
